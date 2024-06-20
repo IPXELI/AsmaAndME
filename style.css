@@ -24,6 +24,7 @@ body{
     animation: welecome 1s ease-in-out forwards;
     max-width: 140px;
     line-height: 180%;
+    text-align: center;
 }
 @keyframes welecome {
     0%{
